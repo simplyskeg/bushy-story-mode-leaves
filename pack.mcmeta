@@ -1,0 +1,22 @@
+
+
+{
+  "pack": {
+    "pack_format": 15, 
+    "supported_formats": [15,	128], 
+    "min_format": 15,
+    "max_format": 128,
+
+    "description": [
+      "",
+      {
+        "text": "Revamped Bushy Leaves!\n",
+        "color": "#eb92c1",
+        "bold": true
+      },
+      {
+        "text": "v1.1 | By Tixul "
+      }
+    ]
+  }
+}

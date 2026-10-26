@@ -1,0 +1,35 @@
+{ 
+  "variants": { 
+    "": [ 
+      { "model": "minecraft:block/acacia_leaves" }, 
+      { "model": "minecraft:block/acacia_leaves", "y": 90 }, 
+      { "model": "minecraft:block/acacia_leaves", "y": 180 }, 
+      { "model": "minecraft:block/acacia_leaves", "y": 270 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 90 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 90, "y": 90 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 90, "y": 180 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 90, "y": 270 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 180 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 180, "y": 90 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 180, "y": 180 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 270 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 270, "y": 90 }, 
+      { "model": "minecraft:block/acacia_leaves", "x": 270, "y": 180 }, 
+
+      { "model": "minecraft:block/acacia_leaves_1" }, 
+      { "model": "minecraft:block/acacia_leaves_1", "y": 90 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "y": 180 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "y": 270 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 90 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 90, "y": 90 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 90, "y": 180 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 90, "y": 270 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 180 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 180, "y": 90 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 180, "y": 180 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 270 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 270, "y": 90 }, 
+      { "model": "minecraft:block/acacia_leaves_1", "x": 270, "y": 180 }
+    ] 
+  } 
+}
